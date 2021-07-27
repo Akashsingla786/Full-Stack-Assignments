@@ -1,0 +1,46 @@
+div{
+    position: sticky;
+    top: 0px;
+    border: 2px solid black;
+    background-color: lightgray;
+    font-size: 30px;
+    margin-top: 20px;
+    text-decoration:double;
+    
+}
+li{
+    
+    
+    border-bottom: 1.5px solid black;
+margin: 10px;
+text-decoration:wavy;
+text-transform:uppercase;
+padding-left: 20px;
+text-align: left;
+list-style-type: '\260E';
+font-size: larger;
+font-weight: bolder;
+list-style-position: outside;
+padding: 10px;
+
+}
+section{
+    background-color:lightcyan;
+    overflow: scroll;
+    width: 50%;
+   height: 400px;
+   vertical-align: middle;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 25vh;
+    
+    text-align: center;
+}
+h1{
+ text-shadow: 2px 2px 1px gray;
+}
+body{
+    background-image: url("https://static8.depositphotos.com/1029554/813/i/600/depositphotos_8138619-stock-photo-old-style-phone-over-yellow.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
